@@ -110,6 +110,20 @@ Send Final Email
 
 ---
 
+
+## 🚀 Future Improvements
+
+...
+
+## 📥 Import Workflow
+
+1. Download `workflow.json` from this repository.
+2. Open n8n.
+3. Click **Import from File**.
+4. Select `workflow.json`.
+5. Configure your Google Sheets and Gmail credentials.
+6. Execute the workflow.
+
 ## 👤 Author
 
 **Syed Ali Raza**
@@ -117,6 +131,5 @@ Send Final Email
 Finance & Accounts Professional | Business Analyst | AI Automation Enthusiast
 
 - 💼 10+ Years of Experience in Finance & Accounts
-- 🤖 Learning AI & Workflow Automation
+- 🤖 Building AI & n8n Automation Workflows
 - 🌍 Open to Remote Opportunities
-
