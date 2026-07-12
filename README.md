@@ -1,3 +1,1 @@
-## Workflow Screenshot
-
-![Finance Automation Workflow](assets/workflow.png)
+![Finance Automation Workflow](workflow.png)
